@@ -16,7 +16,7 @@ This file contains a list of material that will help you get a good understandin
 
 - __[Public Key Cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)__*.
 - __[Hash functions](https://en.wikipedia.org/wiki/Hash_function)__*.
-- __[Merkling in Ethereum](https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/)__: A good intro to merkle trees and merkle proofs.
+- [Merkling in Ethereum](https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/): A good intro to merkle trees and merkle proofs.
 
 ## Cosmos-SDK
 
@@ -27,9 +27,9 @@ This file contains a list of material that will help you get a good understandin
 
 ## Tendermint + ABCI
 
-- __[Tendermint Thesis](https://atrium.lib.uoguelph.ca/xmlui/bitstream/handle/10214/9769/Buchman_Ethan_201606_MAsc.pdf?sequence=7&isAllowed=y)__: A good primer on Tendermint and BFT consensus.
-- __[Tendermint Documentation](https://tendermint.com/docs/)__: Documentation of the Tendermint Consensus Engine.
-- __[Tendermint ABCI](https://tendermint.com/docs/spec/abci/)__: Documentation of the Application-Blockchain Interface (ABCI).
+- [Tendermint Thesis](https://atrium.lib.uoguelph.ca/xmlui/bitstream/handle/10214/9769/Buchman_Ethan_201606_MAsc.pdf?sequence=7&isAllowed=y): A good primer on Tendermint and BFT consensus.
+- [Tendermint Documentation](https://tendermint.com/docs/): Documentation of the Tendermint Consensus Engine.
+- [Tendermint ABCI](https://tendermint.com/docs/spec/abci/): Documentation of the Application-Blockchain Interface (ABCI).
 - [Tendermint Video Explainer](https://www.youtube.com/watch?time_continue=8&v=7L01IxKlVu0): Explanation of Tendermint by Christopher Goes. 
 - [Tendermint Specification](https://arxiv.org/pdf/1807.04938.pdf): Formal specification of the Tendermint's consensus algorithm.
 - [Tendermint's first Audit](https://jepsen.io/analyses/tendermint-0-10-2): A summary of the first Tendermint's audit by Jepsen. 
@@ -37,20 +37,20 @@ This file contains a list of material that will help you get a good understandin
 
 ## Proof-of-Stake
 
-- __[Ethereum's Proof-of-Stake FaQ](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQs)__: Must read to learn about Proof-of-Stake.
+- [Ethereum's Proof-of-Stake FaQ](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQs): Must read to learn about Proof-of-Stake.
 - [Introduction to Proof-of-Stake by Bitmex](https://blog.bitmex.com/complete-guide-to-proof-of-stake-ethereums-latest-proposal-vitalik-buterin-interview/).
 - [Vitalik's blog post on weak subjectivity](https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity/): A good piece to understand the importance of weak subjectivity in PoS systems.
 - [Cosmos Proof-of-Stake specification](https://github.com/cosmos/cosmos-sdk/tree/develop/docs/spec/staking): Specification of the `staking` module of the Cosmos-SDK.  
 
 ## Interoperability
 
-- __[Interoperability and Cosmos Podcast](https://www.breaker.audio/venture-stories/e/39159625)__*: A podcast about interoperability with Sunny Aggarwal.
-- __[Cosmos IBC specification](https://github.com/cosmos/cosmos-sdk/tree/develop/docs/spec/ibc)__: Specification of the Inter-Blockchain communication protocol (https://github.com/cosmos/cosmos-sdk/tree/develop/docs/spec/ibc).
+- [Interoperability and Cosmos Podcast](https://www.breaker.audio/venture-stories/e/39159625): A podcast about interoperability with Sunny Aggarwal.
+- [Cosmos IBC specification](https://github.com/cosmos/cosmos-sdk/tree/develop/docs/spec/ibc): Specification of the Inter-Blockchain communication protocol (https://github.com/cosmos/cosmos-sdk/tree/develop/docs/spec/ibc).
 
 ## Blockchain governance
 
-- __[Blockchain Governance: Programming Our Future](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74)__: A cool blog post on blockchain governance.
-- __[Cosmos Governance Specification](https://github.com/cosmos/cosmos-sdk/tree/develop/docs/spec/governance)__: Specification of the governance module of the Cosmos-SDK.
+- [Blockchain Governance: Programming Our Future](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74): A cool blog post on blockchain governance.
+- [Cosmos Governance Specification](https://github.com/cosmos/cosmos-sdk/tree/develop/docs/spec/governance): Specification of the governance module of the Cosmos-SDK.
 
 ## Advanced reading
 
